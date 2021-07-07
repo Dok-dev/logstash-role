@@ -1,0 +1,4 @@
+---
+# defaults file for logstash-role
+logstash_version: "7.13.2"
+logstash_home: "/opt/logstash/{{ logstash_version }}"
